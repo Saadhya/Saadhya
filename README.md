@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saadhya
-- 👀 I’m interested in Full Stack or Java Development
-- 🌱 I’m currently learning React js and React Native
+- 👀 I’m interested in Full Stack and Java Development with React
+- 🌱 I’m currently learning React Native with Nodejs
 - 💞️ I’m looking to collaborate on development and open to freelance work for frontend development with React
 - 📫 How to reach me - Contact - +91 9599619705 and saadhya98@gmail.com
 
