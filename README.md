@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Saadhya
-- 💼 I’m currently working as a Frontend Engineer at AVPS Technologies.
+- 💼 I am currently working as Consultant(React Developer) at Capgemini.
+- 💼 I was Frontend Engineer at AVPS Technologies
 - 👀 I’m interested in Full Stack and Java Development with React
 - 🌱 I’m currently learning React Native with Nodejs
 - 💞️ I’m looking to collaborate on development and open to freelance work for frontend development with React
