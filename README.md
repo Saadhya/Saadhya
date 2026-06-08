@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saadhya
-- 💼 I am currently working as Consultant(ReactJs Developer) at Capgemini.
-- 💼 I was Software Developer at AVPS Technologies
+- 💼 I am currently working as Senior Consultant(ReactJs Developer) at Accenture.
+- 💼 I was Software Developer at AVPS Technologies & Consultant at Capgemini.
 - 👀 I’m interested in Full Stack Role with Nodejs Development and React.
 - 🌱 I’m currently learning React Native with Nodejs.
 - 💞️ I’m looking to collaborate on web development and frontend development with React and open to learn other UI libraries.
