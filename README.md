@@ -1,5 +1,4 @@
-# ⚡ Hi there, I'm Saadhya! <img src="https://giphy.com" width="30px">
-
+# ⚡ Hi there, I'm Saadhya! 
 <p align="center">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
